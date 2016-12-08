@@ -45,5 +45,4 @@ Note: This is sample project for using some technologies
 
 ##########Info###########
 
-* This repo is made by AHMED MANSY.
 * ahmed.mansy156@gmail.com
